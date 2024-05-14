@@ -1,0 +1,11 @@
+the number of nodes: 2000
+the number of edges: 17364
+the number of positive edges: 10419
+the number of positive edges: 6945
+the ratio of positive edges: 0.6000345542501728
+the density: 0.004343171585792897 %
+the number of the antiparallel edges: 0
+the number of the label 0: 500
+the number of the label 1: 500
+the number of the label 2: 500
+the number of the label 3: 500
