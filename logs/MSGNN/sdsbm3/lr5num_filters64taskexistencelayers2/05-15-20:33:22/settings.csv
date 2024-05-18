@@ -1,0 +1,27 @@
+log_root,../logs/
+dataset,sdsbm
+split_prob,"[0.05, 0.15]"
+task,existence
+epochs,1500
+num_filter,64
+method,MSGNN
+K,2
+num_layers,2
+netflow,False
+follow_math,False
+dropout,0.5
+debug,False
+num_class_link,2
+lr,0.005
+l2,0.0005
+noisy,False
+randomseed,0
+trainable_q,False
+runs,10
+num_result,7
+sd_input_feat,True
+num_input,4
+normalization,sym
+sdsbm_number,3
+save_name,lr5num_filters64taskexistencelayers2
+q,0.5

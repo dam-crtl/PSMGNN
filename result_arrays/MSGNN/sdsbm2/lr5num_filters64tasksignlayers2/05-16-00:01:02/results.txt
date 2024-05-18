@@ -1,0 +1,7 @@
+the average of accuracy: 0.6327±0.0302
+the average of f1 score: 0.7583±0.0317
+the average of macro f1 score: 0.4852±0.0154
+the average of micro f1 score: 0.6327±0.0302
+the average of neg_acc: 0.1733±0.0701
+the average of pos_acc: 0.8296±0.0725
+the average of time: 856.6810±435.6736

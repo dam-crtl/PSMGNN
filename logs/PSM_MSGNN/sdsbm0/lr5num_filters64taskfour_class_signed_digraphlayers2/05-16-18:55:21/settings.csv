@@ -1,0 +1,26 @@
+log_root,../logs/
+dataset,sdsbm
+split_prob,"[0.05, 0.15]"
+task,four_class_signed_digraph
+epochs,1500
+num_filter,64
+method,PSM_MSGNN
+K,2
+num_layers,2
+netflow,False
+follow_math,False
+dropout,0.5
+debug,False
+num_class_link,4
+lr,0.005
+l2,0.0005
+noisy,False
+randomseed,0
+trainable_q,False
+runs,10
+num_result,7
+sd_input_feat,True
+num_input,4
+normalization,sym
+sdsbm_number,0
+save_name,lr5num_filters64taskfour_class_signed_digraphlayers2
